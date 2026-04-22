@@ -1,5 +1,5 @@
 
-
+// my solution
 function getSum(a, b)
 {
   
@@ -17,6 +17,7 @@ function getSum(a, b)
 // console.log(getSum(8,2))
 
 
+// best practices
 const GetSum = (a, b) => {
   let min = Math.min(a, b),
       max = Math.max(a, b);
