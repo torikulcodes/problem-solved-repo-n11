@@ -15,7 +15,7 @@ function getMiddle(s) {
   return result.join("");
 }
 
-console.log(getMiddle("testin"));
+// console.log(getMiddle("testin"));
 
 
 // best practices
@@ -28,3 +28,4 @@ function getMiddle(s) {
     return s[Math.floor(len / 2)];
   }
 }
+
